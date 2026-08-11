@@ -1,0 +1,24 @@
+===== REPORTE DE SIMULACIÓN =====
+
+Fecha y hora: 2026-08-11 11:31:27.855682
+Puntaje obtenido: 1/2
+
+PREGUNTAS Y RESPUESTAS:
+
+Pregunta: ¿Qué método elimina el último elemento de una lista?
+Respuesta usuario: B
+Respuesta correcta: B
+Resultado: True
+----------------------------
+
+Pregunta: ¿Cuál es la salida de len('Python')?
+Respuesta usuario: C
+Respuesta correcta: B
+Resultado: False
+----------------------------
+
+Estadísticas por tema:
+{'Sin tema': 2}
+
+Estadísticas por dificultad:
+{'Sin dificultad': 2}
